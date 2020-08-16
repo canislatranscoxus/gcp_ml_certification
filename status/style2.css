@@ -1,0 +1,31 @@
+@import "https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css";
+.acol .ui-collapsible-heading-collapsed > .ui-collapsible-heading-toggle {
+       background:red !important;
+}
+.acol .ui-collapsible-heading-toggle {
+       background:yellow !important;
+}
+.bcol .ui-collapsible-heading-collapsed > .ui-collapsible-heading-toggle {
+       background:lime !important;
+}
+.bcol .ui-collapsible-heading-toggle {
+       background:orange !important;
+}
+.greenCount {
+    color: green;
+    background-color: lime;
+    text-shadow: none;
+}
+p{
+    color:black;
+  background-color: lightblue;
+
+}
+completed{
+    color:black;
+  background-color: lime;
+}
+pblue{
+    color:black;
+  background-color: blue;
+}

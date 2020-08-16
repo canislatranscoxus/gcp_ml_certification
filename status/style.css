@@ -17,8 +17,10 @@
     text-shadow: none;
 }
 completed{
+    color:black;
   background-color: lime;
 }
-p{
-  background-color: lime;
+pblue{
+    color:black;
+  background-color: blue;
 }
