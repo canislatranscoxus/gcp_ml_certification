@@ -1,0 +1,24 @@
+Fairness Biass
+	Reporting Bias
+	Automation Bias
+	Selection Bias
+		Coverage bias
+		Non-response bias (or participation bias
+		Sampling bias
+	Group Attribution Bias
+		In-group bias
+		Out-group homogeneity bias
+	Implicit Bias
+		confirmation bias
+		experimenter's bias
+
+
+
+
+
+
+
+
+
+
+Implicit Bias
